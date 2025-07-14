@@ -1,6 +1,5 @@
 const Expense = require("../models/Expense")
 
-// Add a new expense
 exports.addExpense = async (req,res) => {
     try{
         const {title,amount,category,date,notes} = req.body
@@ -51,8 +50,7 @@ exports.deleteExpense = async (req,res) => {
             return res.status(404).json({error:"expense not found"})
         }
 
-
-        res.status(201).json(expense)
+        res.status(200).json(expense)
     }catch(err){
         console.error("Failed to delete expense",err)
         res.status(500).json({error:"Failed to delete expense"})
