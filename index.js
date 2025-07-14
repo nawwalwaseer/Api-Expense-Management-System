@@ -3,14 +3,17 @@ require("dotenv").config();
 const rateLimit = require('express-rate-limit');
 const express = require("express");
 const connectDB = require("./db");
-const expenseRoutes = require("./routes/expenses");
+
+
+const expenseRoutesV1 = require("./routes/v1/expenses");
+const expenseRoutesV2 = require("./routes/v2/expenses");
 
 
 
 const app = express();
-app.use(express.json()); // for parsing JSON requests
+app.use(express.json()); 
 
-connectDB(); // connect MongoDB
+connectDB(); 
 
 const rateLimiter = rateLimit({
   windows: 1 * 60 * 1000,
@@ -21,10 +24,11 @@ const rateLimiter = rateLimit({
 app.use(rateLimiter)
 
 app.get("/", (req, res) => {
-  res.send("✅ Expense Manager API is running!");
+  res.send("Expense Manager API is running!");
 });
 
-app.use("/api/expenses",rateLimiter , expenseRoutes);
+app.use("/api/v1/expenses",rateLimiter , expenseRoutesV1);
+app.use("/api/v2/expenses",rateLimiter , expenseRoutesV2);
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => console.log(`🚀 Server running on port ${PORT}`));

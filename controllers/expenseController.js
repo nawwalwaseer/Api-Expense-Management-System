@@ -67,7 +67,7 @@ exports.updateExpense = async (req,res) => {
         const updatedExpense = await Expense.findByIdAndUpdate(id, updatedData, {new:true})
         res.status(200).json({
             message:"expense updated!",
-            expense: updatedData
+            expense: updatedExpense
         })
     }catch(err){
         console.error("Failed to update expense",err)
