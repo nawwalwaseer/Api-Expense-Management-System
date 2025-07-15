@@ -1,4 +1,4 @@
-const {addExpense, updateExpense} = require("../controllers/expenseController")
+const {addExpense, updateExpense, deleteExpense} = require("../controllers/expenseController")
 const Expense = require("../models/Expense")
 
 jest.mock("../models/Expense")
@@ -74,3 +74,29 @@ describe('updateExpense Controller', () => {
     });
 });
 
+describe('deleteExpense', ()=>{
+    it('should delete an expense with id', async () => {
+        const req = {
+            params: {id:"mockExpenseId"}
+        }
+
+        const res = {
+            status: jest.fn().mockReturnThis(),
+            json: jest.fn()
+        }
+
+        const mockDeletedExpense = {
+            id: "mockExpenseId",
+            title: "Groceries",
+            amount: 200
+        }
+
+        Expense.findByIdAndDelete.mockResolvedValue(mockDeletedExpense)
+
+        await deleteExpense(req,res)
+
+        expect(Expense.findByIdAndDelete).toHaveBeenCalledWith("mockExpenseId")
+        expect(res.status).toHaveBeenCalledWith(200)
+        expect(res.json).toHaveBeenCalledWith(mockDeletedExpense)
+    })
+})
