@@ -99,4 +99,24 @@ describe('deleteExpense', ()=>{
         expect(res.status).toHaveBeenCalledWith(200)
         expect(res.json).toHaveBeenCalledWith(mockDeletedExpense)
     })
+
+    it('should return a 404 status if expense not found', async () => {
+        const req = {
+            params: {id:"notExistingId"}
+        }
+
+        const res = {
+            status: jest.fn().mockReturnThis(),
+            json: jest.fn()
+        }
+
+        Expense.findByIdAndDelete.mockResolvedValue(null)
+
+        await deleteExpense(req,res)
+
+        expect(Expense.findByIdAndDelete).toHaveBeenCalledWith("notExistingId")
+        expect(res.status).toHaveBeenCalledWith(404)
+        expect(res.json).toHaveBeenCalledWith({error:'expense not found'})
+
+    })
 })
