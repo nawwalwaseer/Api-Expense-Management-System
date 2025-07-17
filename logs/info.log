@@ -1,0 +1,192 @@
+Time: 2025-07-17T06:44:26.460Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T06:44:26.466Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T06:45:43.414Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T06:45:43.418Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T06:45:49.084Z, Level: [INFO]: Message: Getting all expenses! 
+Time: 2025-07-17T06:45:49.085Z, Level: [WARN]: Message: Just a warning to test logger!
+Time: 2025-07-17T06:45:49.085Z, Level: [ERROR]: Message: just a error to test logger!
+Time: 2025-07-17T06:54:29.379Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T06:54:29.384Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T06:54:52.592Z, Level: [INFO]: Message: Metrics endpoint hit
+Time: 2025-07-17T06:57:38.137Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T06:57:38.143Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T06:57:43.901Z, Level: [INFO]: Message: Metrics endpoint hit
+Time: 2025-07-17T07:01:29.725Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T07:01:29.729Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T07:01:32.308Z, Level: [INFO]: Message: Metrics endpoint hit
+Time: 2025-07-17T07:04:25.095Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T07:04:25.098Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T07:04:27.801Z, Level: [INFO]: Message: Metrics endpoint hit
+Time: 2025-07-17T07:04:32.164Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T07:04:32.170Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T07:04:32.679Z, Level: [INFO]: Message: Metrics endpoint hit
+Time: 2025-07-17T07:09:58.822Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T07:09:58.826Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T07:10:38.784Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T07:10:38.787Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T07:10:47.323Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T07:10:47.326Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T07:11:16.684Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T07:11:16.688Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T07:11:29.610Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T07:11:29.614Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T07:11:57.806Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T07:11:57.811Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T07:18:22.706Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T07:18:22.710Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T07:26:58.566Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T07:26:58.570Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T07:28:59.718Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T07:28:59.723Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T07:29:27.977Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T07:29:27.982Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T07:31:54.216Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T07:31:54.220Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T07:33:05.098Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T07:33:05.102Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T07:34:54.763Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T07:34:54.767Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T07:35:53.114Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T07:35:53.118Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:07:00.994Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:07:01.008Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:07:22.797Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:07:22.802Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:07:39.575Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:07:39.580Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:09:24.855Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:09:24.861Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:12:17.177Z, Level: [INFO]: Message: expense is being added
+Time: 2025-07-17T08:14:04.713Z, Level: [INFO]: Message: expense is being added
+Time: 2025-07-17T08:14:21.290Z, Level: [INFO]: Message: Getting all expenses! 
+Time: 2025-07-17T08:14:21.290Z, Level: [WARN]: Message: Just a warning to test logger!
+Time: 2025-07-17T08:14:21.292Z, Level: [ERROR]: Message: just a error to test logger!
+Time: 2025-07-17T08:14:36.731Z, Level: [INFO]: Message: expense is being added
+Time: 2025-07-17T08:14:39.376Z, Level: [INFO]: Message: expense is being added
+Time: 2025-07-17T08:15:48.661Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:15:48.667Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:32:59.178Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:32:59.182Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:33:02.672Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:33:02.677Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:33:05.238Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:33:05.242Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:44:10.207Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:44:10.211Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:44:17.138Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:44:17.142Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:45:11.288Z, Level: [INFO]: Message: Getting all expenses! 
+Time: 2025-07-17T08:45:11.289Z, Level: [WARN]: Message: Just a warning to test logger!
+Time: 2025-07-17T08:45:11.289Z, Level: [ERROR]: Message: just a error to test logger!
+Time: 2025-07-17T08:46:39.432Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:46:39.439Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:46:43.546Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:46:43.550Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:47:12.601Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:47:12.605Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:47:35.033Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:47:35.036Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:50:37.837Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:50:37.841Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:51:09.661Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:51:09.665Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:51:55.383Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:51:55.387Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:55:47.462Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:55:47.467Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:57:46.644Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:57:46.648Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T08:58:00.200Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T08:58:00.204Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T09:08:18.880Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T09:08:18.885Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T09:19:22.373Z, Level: [INFO]: Message: expense is being added
+Time: 2025-07-17T09:21:52.910Z, Level: [INFO]: Message: expense is being added
+Time: 2025-07-17T09:28:48.770Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T09:28:48.776Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T09:29:08.527Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T09:29:08.531Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T09:29:30.334Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T09:29:30.337Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T10:04:00.126Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T10:04:00.130Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T10:04:03.301Z, Level: [INFO]: Message: Metrics endpoint hit
+Time: 2025-07-17T10:04:49.676Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T10:04:49.681Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T10:05:15.127Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T10:05:15.133Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T10:05:47.789Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T10:05:47.793Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T10:57:19.614Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T10:57:19.619Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:06:33.085Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:06:33.090Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:07:11.945Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:07:11.950Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:07:25.550Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:07:25.554Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:14:12.817Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:14:12.820Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:15:53.418Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:15:53.423Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:16:40.449Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:16:40.452Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:18:31.100Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:18:31.105Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:18:40.393Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:18:40.398Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:22:37.039Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:22:37.046Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:22:46.828Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:22:46.832Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:24:19.076Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:24:19.082Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:24:51.255Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:24:51.261Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:26:23.133Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:26:23.137Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:26:48.320Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:26:48.325Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:27:04.229Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:27:04.233Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:27:08.751Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:27:08.755Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:27:49.520Z, Level: [INFO]: Message: Getting all expenses! 
+Time: 2025-07-17T11:27:49.522Z, Level: [WARN]: Message: Just a warning to test logger!
+Time: 2025-07-17T11:27:49.523Z, Level: [ERROR]: Message: just a error to test logger!
+Time: 2025-07-17T11:30:06.890Z, Level: [INFO]: Message: Getting all expenses! 
+Time: 2025-07-17T11:30:06.890Z, Level: [WARN]: Message: Just a warning to test logger!
+Time: 2025-07-17T11:30:06.891Z, Level: [ERROR]: Message: just a error to test logger!
+Time: 2025-07-17T11:34:57.155Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:34:57.159Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:35:22.029Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:35:22.033Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:35:49.895Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:35:49.900Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:36:03.946Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:36:03.950Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:42:05.746Z, Level: [INFO]: Message: expense is being added
+Time: 2025-07-17T11:45:08.360Z, Level: [INFO]: Message: expense is being added
+Time: 2025-07-17T11:47:03.723Z, Level: [INFO]: Message: expense is being added
+Time: 2025-07-17T11:48:08.625Z, Level: [INFO]: Message: Getting all expenses! 
+Time: 2025-07-17T11:48:08.626Z, Level: [WARN]: Message: Just a warning to test logger!
+Time: 2025-07-17T11:48:08.626Z, Level: [ERROR]: Message: just a error to test logger!
+Time: 2025-07-17T11:50:41.317Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:50:41.322Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:50:51.947Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:50:51.953Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:54:38.816Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:54:38.821Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:55:14.477Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T11:55:14.483Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T11:56:26.948Z, Level: [INFO]: Message: expense is being added
+Time: 2025-07-17T12:47:09.840Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T12:47:09.846Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T12:53:27.358Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T12:53:27.364Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T12:54:58.093Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T12:54:58.098Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T12:56:29.771Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T12:56:29.775Z, Level: [INFO]: Message: Server is going to Start!
+Time: 2025-07-17T12:57:37.086Z, Level: [WARN]: Message: This is just a warning to test logger!
+Time: 2025-07-17T12:57:37.091Z, Level: [INFO]: Message: Server is going to Start!

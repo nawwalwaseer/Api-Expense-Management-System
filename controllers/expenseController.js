@@ -1,8 +1,14 @@
 const Expense = require("../models/Expense")
+const logger = require('../logger/logger')
 
 exports.addExpense = async (req,res) => {
     try{
         const {title,amount,category,date,notes} = req.body
+
+        const existingExpense = await Expense.findOne({ title, amount, category, date });
+        if (existingExpense) {
+            return res.status(400).json({ error: 'Expense already exists!' });
+        }
 
         const expense = new Expense({
             title,
@@ -12,6 +18,7 @@ exports.addExpense = async (req,res) => {
             notes
         })
 
+        logger.info('expense is being added')
         await expense.save()
         res.status(201).json(expense)
     }catch(err){
@@ -28,6 +35,9 @@ exports.getAllExpenses = async (req,res) => {
         const skip = (page-1) * limit
 
         const expenses = await Expense.find().skip(skip).limit(limit)
+        logger.info("Getting all expenses! ")
+        logger.warn('Just a warning to test logger!')
+        logger.error('just a error to test logger!')
         res.status(200).json({
             currentPage:page,
             perPage:limit,
@@ -36,6 +46,7 @@ exports.getAllExpenses = async (req,res) => {
         })
 
     }catch(err){
+        logger.error('Cannot get all expenses!')
         console.error("error updating data")
         res.status(500).json({error:"Failed to get all expenses"})
     }
